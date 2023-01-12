@@ -119,7 +119,7 @@ For more information, see [Govern apps discovered by Microsoft Defender for Endp
 
 Policy conflict handling for domains/URLs/IP addresses differ from policy conflict handling for certs.
 
-In the case were multiple different action types are set on the same indicator (for example, **block**,  **warn**, and **allow**,  action types set for Microsoft.com), the order those action types would take effect is:
+In the case where multiple different action types are set on the same indicator (for example, **block**,  **warn**, and **allow**,  action types set for Microsoft.com), the order those action types would take effect is:
 
 1. Allow
 2. Warn
